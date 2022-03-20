@@ -32,7 +32,7 @@ over time.
 Curvature kymographs obtained from local
 curvature tracking are then exported into this python package (pecowaco) for amplitude, frequency and velocity of wave analysis. 
 
-![Notebook Description](https://github.com/kapoorlab/PeCoWaCo/blob/main/Images/PastedGraphic.png)
+![Notebook Description](https://github.com/Kapoorlabs-paris/PeCoWaCo/blob/main/Images/PastedGraphic.png)
 
 ## Installation
 This package can be installed with:
